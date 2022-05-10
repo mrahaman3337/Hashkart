@@ -2,7 +2,8 @@
 
 1. User Service ==> Login/Signup
 2. Product Service ==> Product, Item List
-3. 
+3. Cart Service ==> Add item to cart and store the status
+4. Payemnt Service ==> User can purchase the items which he stored into card
 
 **Architecture**
 
